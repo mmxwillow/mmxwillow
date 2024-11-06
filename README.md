@@ -1,4 +1,5 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning React
-- 🤔 Mostly self taught, currently studying at uni and working 
+- 🤔 Mostly self taught
+- 🖊️ Studying at uni and working 
